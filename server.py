@@ -3,7 +3,7 @@ import os
 from flask import Flask, request, render_template, Response
 from flask_restful import Resource, Api
 
-app = Flask(__name__, template_folder='./app/dist')
+app = Flask(__name__, template_folder='./app/src')
 api = Api(app)
 
 question_id_serial = 2
