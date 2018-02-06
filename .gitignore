@@ -1,0 +1,9 @@
+.idea
+dist
+node_modules
+coverage
+stats
+npm-debug.log
+.project
+.DS_Store
+.war

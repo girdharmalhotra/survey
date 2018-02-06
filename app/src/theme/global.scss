@@ -1,0 +1,11 @@
+@import "~normalize.css";
+
+body {
+  background: url('images/scuffedstatic_blue_1920x1234.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  // background-color: #ededed;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
